@@ -3,10 +3,11 @@
 <head>
 <meta charset="UTF-8">
 <!-- TemplateBeginEditable name="doctitle" -->
-<title>Untitled Document</title>
+<title>Landing Page</title>
 <!-- TemplateEndEditable -->
 <!-- TemplateBeginEditable name="head" -->
 <!-- TemplateEndEditable -->
+<!-- <link href="file:///firenze/Users/kmueller/Documents/bos-sole/css/bossole_palette.css" rel="stylesheet" type="text/css"> -->
 <link href="../oneColLiqCtrHdr.css" rel="stylesheet" type="text/css">
 </head>
 
